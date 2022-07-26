@@ -9,7 +9,7 @@
 
 - 📫 How to reach me **rayasya.dziqi@gmail.com**
 
-- ⚡ Fun fact **I like making pixel art, check me on my instagram @blvvxray.pixel**
+- ⚡ Fun fact **I like making pixel art, check me on my instagram <a href="https://www.instagram.com/blvvxray.pixels/">@blvvxray.pixels</a>** 
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
