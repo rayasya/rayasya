@@ -12,6 +12,8 @@ Hi, My name is Muhammad Rayasya Dziqi Cahyana<br>I'm currently studying at the J
 ![](https://github-readme-streak-stats.herokuapp.com/?user=rayasya&theme=radical&hide_border=true)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=rayasya&theme=radical&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
 
+[![An image of @rayasya's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/rayasya)](https://holopin.io/@rayasya)
+
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=rayasya&theme=radical&no-frame=true&no-bg=false&margin-w=4)
 
