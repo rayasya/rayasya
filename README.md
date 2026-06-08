@@ -14,7 +14,7 @@ Hi, My name is Muhammad Rayasya Dziqi Cahyana<br>I'm currently studying at the J
 
 # 🔥 Github Streak
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=farhanariyanto03&theme=tokyo-night&hide_border=true" height="200"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=rayasya&theme=tokyo-night&hide_border=true" height="200"/>
 </p>
 
 ## 🏆 GitHub Trophies
