@@ -2,7 +2,7 @@
 Hi, My name is Muhammad Rayasya Dziqi Cahyana<br>I'm currently studying at the Jember State Polytechnic
 
 
-## 🌐 Socials:
+# 🌐 Socials:
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/690528241110351903) [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/Rayasya.Cahyana) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/raycahyana_) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/rayasya-cahyana-b31834169) 
 
 # 💻 Tech Stack:
@@ -12,12 +12,7 @@ Hi, My name is Muhammad Rayasya Dziqi Cahyana<br>I'm currently studying at the J
 ![](https://github-readme-streak-stats.herokuapp.com/?user=rayasya&theme=radical&hide_border=true)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=rayasya&theme=radical&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
 
-# 🔥 Github Streak
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=rayasya&theme=tokyo-night&hide_border=true" height="200"/>
-</p>
-
-## 🏆 GitHub Trophies
+# 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=rayasya&theme=radical&no-frame=true&no-bg=false&margin-w=4)
 
 [![An image of @rayasya's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/rayasya)](https://holopin.io/@rayasya)
