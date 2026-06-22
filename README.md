@@ -18,6 +18,6 @@ Hi, My name is Muhammad Rayasya Dziqi Cahyana<br>I'm currently studying at the J
 
 ---
 [![](https://visitcount.itsvg.in/api?id=rayasya&icon=0&color=0)](https://visitcount.itsvg.in)
-![snake_gif](https://github.com/ncflsy/rayasya/blob/output/github-contribution-grid-snake-dark.svg)
+![snake_gif](https://github.com/rayasya/rayasya/blob/output/github-contribution-grid-snake-dark.svg)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
