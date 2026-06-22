@@ -102,3 +102,4 @@
   <img src="https://raw.githubusercontent.com/czl9707/gh-space-shooter/main/example.gif" alt="Space shooter contribution graph" />
 </p>
 
+[![An image of @rayasya's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/rayasya)](https://holopin.io/@rayasya)
